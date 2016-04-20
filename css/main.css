@@ -1,0 +1,22 @@
+html, body{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+input,p,div{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    text-transform: capitalize;
+}
+input{
+    margin-bottom: 30px;
+    padding: 30px;
+    
+}
+p{
+    margin-bottom: 30px;
+}
